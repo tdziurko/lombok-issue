@@ -1,0 +1,21 @@
+TODO
+
+# IDE
+.idea
+*.ipr
+*.iml
+*.iws
+out
+
+
+# gradle
+.gradle
+.gradle-docker
+build
+
+# OSX
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+classes
